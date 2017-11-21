@@ -1,11 +1,11 @@
 {
   "isDev": false,
   "server": {
-    "port": 8888,
+    "port": 8887,
     "/* secure */": "/* whether this connects via https */",
     "secure": true,
-    "key": "config/sslcerts/key.pem",
-    "cert": "config/sslcerts/cert.pem",
+    "key": "/home/fjua05/Cerberus/ssl/private.key",
+    "cert": "/home/fjua05/Cerberus/ssl/certificate.crt",
     "password": null
   },
   "rooms": {
